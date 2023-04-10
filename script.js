@@ -1,0 +1,11 @@
+let vish = prompt("INSIRA AQUI SUA IDADE");
+console.log(vish);
+alert("VOCÊ SÓ PODE TÁ DE SACANAGEM");
+let mais = prompt("REPETE AQUI SÓ PRA EU VER UM NEGÓCIO");
+console.log(mais);
+alert("DEU RUIM MLK CORRE");
+alert("TUA MÃE SABE DISSO?");
+alert("VISH FILHÃO");
+alert("TÁ VENDO QUE NEM FECHA NÉ!?");
+alert("SE EU FOSSE TU NEM SAIA MAIS");
+alert("ACABOU A VIDA");
